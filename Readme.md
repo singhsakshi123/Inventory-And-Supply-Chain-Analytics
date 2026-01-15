@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 This project is a **Power BI Inventory & Supply Chain dashboard** built to track inventory efficiency, order fulfillment, and logistics performance across **4 product categories** and **4 regions**. The dashboard is designed to provide a clear, executive-level view of operational performance and highlight where inventory or supply chain bottlenecks may be impacting service levels and cost.
 
----
 
 ## 🎯 Business Goal
 The goal of this dashboard is to help operations teams answer critical questions such as:
@@ -13,14 +12,12 @@ The goal of this dashboard is to help operations teams answer critical questions
 - What is the backorder situation and which order statuses need attention?
 - How is sales volume trending over time?
 
----
 
 ## 📊 Analysis Coverage
 This dashboard majorly analyzes:
 - **4 Product Categories:** Accessories, Clothing, Electronics, Furniture  
 - **4 Regions:** North, South, East, West  
 
----
 
 ## 🧹 Data Cleaning & Transformation (Power Query)
 Key transformation steps completed in **Power Query** include:
@@ -29,7 +26,6 @@ Key transformation steps completed in **Power Query** include:
 - Corrected inconsistent naming for regions and product categories  
 - Created a clean model-ready dataset for reporting and DAX calculations  
 
----
 
 ## 📌 Dashboard Design (What’s Included)
 This dashboard contains:
@@ -37,7 +33,6 @@ This dashboard contains:
 - ✅ **2 Slicers** (Region + Category)
 - ✅ **6 Visual Charts** (for trends, comparison, and breakdown insights)
 
----
 
 ## 📈 KPIs Tracked
 The dashboard highlights three key inventory KPIs:
@@ -45,7 +40,6 @@ The dashboard highlights three key inventory KPIs:
 - **Days Sales of Inventory (DSI)**
 - **Inventory Turnover Ratio**
 
----
 
 ## 🔍 Dashboard Features
 - Interactive slicing by **Region** and **Product Category**
@@ -53,7 +47,6 @@ The dashboard highlights three key inventory KPIs:
 - Visual breakdown of inventory levels, cost, lead time, and fulfillment status
 - Designed to support real-world supply chain analysis and stakeholder reporting
 
----
 
 ## 💡 Key Insights from the Dashboard
 - Inventory performance varies significantly across categories, showing where stock is concentrated
@@ -62,14 +55,12 @@ The dashboard highlights three key inventory KPIs:
 - Lead time differences across categories suggest supplier or operational delays in specific segments
 - Year-wise unit sales trend helps track demand patterns and supports better replenishment planning
 
----
 
 ## 🛠️ Tech Stack
 - **BI Tool:** Power BI  
 - **Data Cleaning / Transformation:** Power Query  
 - **KPI Calculations:** DAX  
 
----
 
 ## 📷 Dashboard Preview
 <img src="Inventory and Supply Chain Management Dashboard.png" alt="Inventory & Supply Chain Dashboard" width="900"/>
